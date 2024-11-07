@@ -20,3 +20,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)
 
 
+![Texto alternativo](https://raw.githubusercontent.com/WagnerK4uan/foto/refs/heads/main/imagem%20para%20readme.avif?token=GHSAT0AAAAAACYKK5HKSHL6U5VTEMGAREYKZZNFGJQ)
