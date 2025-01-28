@@ -3,7 +3,7 @@
 ### **🚀 Sobre mim**
 
 - 💻 Aspirante a programador e desenvolvedor de sistemas.
-- 📚 Estudante técnico no **SENAI** há 2 anos, focado em tecnologia.
+- 📚 Estudei no **SENAI** em um curso técnico por 2 anos, focado em tecnologia.
 - 💼 Experiência com importação de dados em sistemas como **MySQL, FireBird, PostgreSQL, SQL Server.** 
 - 🧑‍💻 Atualmente estudando **HTML** e **JavaScript** para o desenvolvimento de front-end.
 - 🔨 Desenvolvo projetos próprios para melhorar minhas habilidades.
