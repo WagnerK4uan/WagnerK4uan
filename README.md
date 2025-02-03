@@ -1,22 +1,25 @@
-# Olá! Eu sou **Wagner Kauan Machado de Paula** 👋
+Here’s your introduction in English:
 
-### **🚀 Sobre mim**
+---
 
-- 💻 Aspirante a programador e desenvolvedor de sistemas.
-- 📚 Estudei no **SENAI** em um curso técnico por 2 anos, focado em tecnologia.
-- 💼 Experiência com importação de dados em sistemas como **MySQL, FireBird, PostgreSQL, SQL Server.** 
-- 🧑‍💻 Atualmente estudando **HTML** e **JavaScript** para o desenvolvimento de front-end.
-- 🔨 Desenvolvo projetos próprios para melhorar minhas habilidades.
-- 🎯 Apaixonado por aprender e me manter atualizado no mundo da tecnologia. 
+# **Hello! I'm Wagner Kauan Machado de Paula** 👋
 
-### **🛠️ Tecnologias e Ferramentas**
-- Linguagens de Programação: **Java, HTML, JavaScript**
-- Bancos de Dados: **MySQL, FireBird, PostgreSQL, SQL Server**
-- Ferramentas: **Git, GitHub, IntelliJ IDEA, VSCode, Eclipse**
+### **🚀 About Me**
 
-### **📫 Como me encontrar**
+- 💻 Aspiring programmer and software developer.  
+- 📚 Studied at **SENAI** in a 2-year technical course focused on technology.  
+- 💼 Experience with data import in systems like **MySQL, FireBird, PostgreSQL, SQL Server.**  
+- 🧑‍💻 Currently learning **HTML, JavaScript, and PHP** to develop with Laravel.  
+- 🔨 I work on personal projects to improve my skills.  
+- 🎯 Passionate about learning and staying up to date in the tech world.  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-kauan) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)
+### **🛠️ Technologies and Tools**  
+- Programming Languages: **Java, HTML, JavaScript, PHP**  
+- Databases: **MySQL, FireBird, PostgreSQL, SQL Server**  
+- Tools: **Git, GitHub, IntelliJ IDEA, VSCode, Eclipse**  
 
+### **📫 How to Reach Me**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-kauan)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)  
 
