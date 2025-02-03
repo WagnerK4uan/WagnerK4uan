@@ -1,6 +1,3 @@
-Here’s your introduction in English:
-
----
 
 # **Hello! I'm Wagner Kauan Machado de Paula** 👋
 
