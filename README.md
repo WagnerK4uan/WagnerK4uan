@@ -13,7 +13,7 @@
 ### **🛠️ Technologies and Tools**  
 - Programming Languages: **Java, HTML, JavaScript, PHP**  
 - Databases: **MySQL, FireBird, PostgreSQL, SQL Server**  
-- Tools: **Git, GitHub, IntelliJ IDEA, VSCode, Eclipse**  
+- Tools: **Git, GitHub, IntelliJ IDEA, VSCode, Eclipse, Visual Studio**  
 
 ### **📫 How to Reach Me**  
 
