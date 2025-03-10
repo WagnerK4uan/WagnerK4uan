@@ -11,7 +11,7 @@
 - 🎯 Passionate about learning and staying up to date in the tech world.  
 
 ### **🛠️ Technologies and Tools**  
-- Programming Languages: **Java, HTML, JavaScript, PHP**  
+- Programming Languages: **Java, HTML, JavaScript, PHP, C#**  
 - Databases: **MySQL, FireBird, PostgreSQL, SQL Server**  
 - Tools: **Git, GitHub, IntelliJ IDEA, VSCode, Eclipse, Visual Studio**  
 
