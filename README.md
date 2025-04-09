@@ -50,3 +50,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-kauan)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)
+
+![snake gif](https://github.com/WagnerK4uan/WagnerK4uan/blob/output/github-contribution-grid-snake.svg)
