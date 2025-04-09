@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -21,6 +21,7 @@ jobs:
           github_user_name: WagnerK4uan
           outputs: |
             dist/github-contribution-grid-snake.svg
+          palette: github-dark
 
       - name: Enviar para branch output
         uses: crazy-max/ghaction-github-pages@v3
