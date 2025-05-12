@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" title="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="30" width="40" title="Vue.js" src="https://camo.githubusercontent.com/f9e0c6f8571a04d30382d14f47fc110badd1a3f136b530902ef28995ae4bd50a/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67">
   <img align="center" height="30" width="40" title="Laravel" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
 </div>
 
