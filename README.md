@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou estudante de **Engenharia de Software** e apaixonado por tecnologia e desenvolvimento web.  
 Gosto de transformar ideias em sistemas funcionais, organizados e escaláveis.
