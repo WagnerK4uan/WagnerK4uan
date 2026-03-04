@@ -77,8 +77,8 @@ Estou sempre buscando evoluir tecnicamente e profissionalmente.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerK4uan&layout=compact&theme=tokyonight"/>
 
 </div>
 
