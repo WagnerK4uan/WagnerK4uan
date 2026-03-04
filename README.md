@@ -1,89 +1,84 @@
-# 👨‍💻 Wagner Kauan Machado de Paula  
+<h1 align="center">Hi 👋, I'm Wagner Kauan</h1>
+<h3 align="center">Software Engineering Student | Full Stack Developer</h3>
 
-<div >
-
-###  Software Engineering Student | Full Stack Developer in Progress  
-
-🎓 Engenharia de Software – SATC  
-💻 Foco em Laravel • Vue.js • Nuxt • APIs REST  
-📍 Santa Catarina – Brasil  
-
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia de Software** e apaixonado por tecnologia e desenvolvimento web.  
-Gosto de transformar ideias em sistemas funcionais, organizados e escaláveis.
-
-Tenho experiência prática com:
-
-- Desenvolvimento de APIs com Laravel  
-- Front-end moderno com Vue.js e Nuxt  
-- Modelagem e manipulação de bancos de dados  
-- Integrações e importação de dados (Excel, sistemas legados)  
-- Versionamento com Git  
-
-Estou sempre buscando evoluir tecnicamente e profissionalmente.
-
----
-
-### Linguagens
-
-<p align="left">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+Nuxt;API+REST+%7C+Clean+Architecture;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### Frameworks & Libraries
+##  About Me
 
-<p align="left">
-<img height="35" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+🎓 Software Engineering – SATC  
+💻 Focused on Laravel, Vue.js, Nuxt & REST APIs  
+📍 Santa Catarina – Brazil  
+
+I build scalable web systems with clean architecture and strong backend foundations.  
+Passionate about turning ideas into real, working products.
+
+---
+
+##  Tech Stack
+
+###  Backend
+<p>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img height="35" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</p>
+
+###  Frontend
+<p>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+###  Database
+<p>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</p>
+
+###  Tools
+<p>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </p>
 
 ---
-
-### Banco de Dados
-
-<p align="left">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</p>
-
----
-
-### Ferramentas
-
-<p align="left">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-</p>
-
----
-
-## GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerK4uan&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WagnerK4uan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-kauan)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)
 
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=WagnerK4uan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/wagner-kauan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_wagnerkauan/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
