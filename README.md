@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+Nuxt;API+REST+%7C+Clean+Architecture;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Nuxt;API+REST+%7C+Clean+Architecture;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ##  About Me
 
 🎓 Software Engineering – SATC  
-💻 Focused on Laravel, Vue.js, Nuxt & REST APIs  
+💻 Focused on Laravel, Nuxt & REST APIs  
 📍 Santa Catarina – Brazil  
 
 I build scalable web systems with clean architecture and strong backend foundations.  
@@ -51,17 +51,6 @@ Passionate about turning ideas into real, working products.
 </p>
 
 ---
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WagnerK4uan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
 
 <div align="center">
 
