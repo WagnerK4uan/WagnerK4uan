@@ -25,13 +25,14 @@ Passionate about turning ideas into real, working products.
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img height="35" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </p>
 
 ###  Frontend
 <p>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-3.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
