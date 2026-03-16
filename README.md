@@ -2,57 +2,66 @@
 <h3 align="center">Software Engineering Student | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Nuxt;API+REST+%7C+Clean+Architecture;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;NestJS+%7C+REST+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-##  About Me
+#  About Me
 
-🎓 Software Engineering – SATC  
-💻 Focused on Laravel, Nuxt & REST APIs  
+🎓 Software Engineering Student – SATC  
+💻 Full Stack Developer  
 📍 Santa Catarina – Brazil  
 
-I build scalable web systems with clean architecture and strong backend foundations.  
-Passionate about turning ideas into real, working products.
+I build scalable web systems with strong backend foundations and modern frontend technologies.  
+Focused on building **clean, maintainable and efficient applications**.
+
+Currently working with **Laravel, React, Next.js and NestJS** to create modern web applications and APIs.
 
 ---
 
-##  Tech Stack
+#  Tech Stack
 
-###  Backend
+## Backend
 <p>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img height="35" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="40" src="https://nestjs.com/img/logo-small.svg">
 </p>
 
-###  Frontend
+## Frontend
 <p>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
-###  Database
+## Database
 <p>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </p>
 
-###  Tools
+## Tools & DevOps
 <p>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </p>
 
 ---
+
+#  GitHub Stats
 
 <div align="center">
 
@@ -62,9 +71,10 @@ Passionate about turning ideas into real, working products.
 
 ---
 
-# Connect With Me
+#  Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/wagner-kauan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -72,4 +82,5 @@ Passionate about turning ideas into real, working products.
 <a href="https://www.instagram.com/_wagnerkauan/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
