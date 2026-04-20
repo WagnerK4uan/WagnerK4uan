@@ -1,79 +1,79 @@
-<h1 align="center">Hi 👋, I'm Wagner Kauan</h1>
-<h3 align="center">Software Engineering Student | Full Stack Developer</h3>
+# 👋 Hey, I'm Wagner Kauan
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;NestJS+%7C+REST+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Vue.js;Node.js+%7C+NestJS+%7C+Spring+Boot;Clean+Architecture+Enthusiast;Building+scalable+web+systems" />
 </p>
 
 ---
 
-#  About Me
+## About Me
 
-🎓 Software Engineering Student – SATC  
-💻 Full Stack Developer  
-📍 Santa Catarina – Brazil  
+🎓 Software Engineering student at SATC  
+💻 Full Stack Developer focused on scalable web systems  
+📍 Santa Catarina, Brazil  
 
-I build scalable web systems with strong backend foundations and modern frontend technologies.  
-Focused on building **clean, maintainable and efficient applications**.
+I build **modern, scalable and maintainable applications**, combining strong backend architecture with intuitive frontend experiences.
 
-Currently working with **Laravel, React, Next.js and NestJS** to create modern web applications and APIs.
-
----
-
-#  Tech Stack
-
-## Backend
-<p>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img height="35" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img height="40" src="https://nestjs.com/img/logo-small.svg">
-</p>
-
-## Frontend
-<p>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p>
-
-## Database
-<p>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</p>
-
-## Tools & DevOps
-<p>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-</p>
+I enjoy working with **APIs, system design, clean architecture and performance optimization**, always aiming to write clean and production-ready code.
 
 ---
 
-#  GitHub Stats
+## Tech Stack
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=WagnerK4uan&theme=tokyonight&hide_border=true"/>
-
-</div>
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
+###  Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+---
+
+###  Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+###  Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+##  What I Focus On
+
+- Building scalable backend systems  
+- Creating high-performance APIs  
+- Writing clean & maintainable code  
+- Applying software architecture principles  
+- Continuous learning & improvement  
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WagnerK4uan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 #  Connect With Me
 
-<p align="center">
 
 <a href="https://www.linkedin.com/in/wagner-kauan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -84,3 +84,4 @@ Currently working with **Laravel, React, Next.js and NestJS** to create modern w
 </a>
 
 </p>
+
