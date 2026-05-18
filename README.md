@@ -67,10 +67,6 @@ I enjoy working with **APIs, system design, clean architecture and performance o
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WagnerK4uan&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WagnerK4uan&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 #  Connect With Me
 
