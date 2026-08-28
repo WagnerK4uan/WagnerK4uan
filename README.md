@@ -84,7 +84,7 @@ I'm early in that path and learning it properly, starting with the fundamentals 
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=WagnerK4uan&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=3B82F6" width="60%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=WagnerK4uan&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=3B82F6" alt="GitHub Streak" />
 
 </div>
 
