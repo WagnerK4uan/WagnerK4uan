@@ -2,7 +2,7 @@
 
 # W A G N E R &nbsp; K A U A N
 
-### **Junior Developer • Cloud & DevOps**
+### **Developer • Cloud & DevOps**
 
 `AWS` &nbsp; `Linux` &nbsp; `Docker` &nbsp; `Networking` &nbsp; `Databases` &nbsp; `Automation`
 
