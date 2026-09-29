@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Software Engineering student at **UNISATC** and a junior developer. My work so far has been in web systems and, above all, in what happens behind the interface: **legacy data migration**, database modeling, query optimization and process automation.
+Software Engineering student at **UNISATC** and a developer. My work so far has been in web systems and, above all, in what happens behind the interface: **legacy data migration**, database modeling, query optimization and process automation.
 
 That's also what shaped the direction I chose for my career. Working close to the database and the server, and dealing with what breaks in production, is what made me decide on **Cloud and DevOps**.
 
