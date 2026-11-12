@@ -1,93 +1,41 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=180&section=header&text=Wagner%20Kauan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=58&descSize=20" />
 
-# W A G N E R &nbsp; K A U A N
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Web+developer;Laravel+%2B+Nuxt.js+web+systems;Building+AI+tools+with+Claude+Code;Studying+AWS%2C+Linux+%26+Docker" alt="Typing SVG" /></a>
+</p>
 
-### **Developer • Cloud & DevOps**
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wagnerk4uan.github.io/Portfolio-wk"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-`AWS` &nbsp; `Linux` &nbsp; `Docker` &nbsp; `Networking` &nbsp; `Databases` &nbsp; `Automation`
+---
 
-### *Learning cloud and infrastructure from the fundamentals up.*
+### About me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-kauan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_wagnerkauan/)
+- 💼 Developer working with web systems (**Laravel** and **Nuxt.js**) and databases. Automated processes that used to take **days and now take minutes**.
+- 🤖 Into AI applications and prompt engineering: I use **Claude Code** daily with Spec-Driven Development and build my own skills and tools for it.
+- ☁️ Studying **AWS, Linux, networking and Docker** to go deeper into cloud and infrastructure.
+- 🎓 Software Engineering student at **UNISATC** · Tubarão, SC, Brazil.
 
-</div>
+### 🛠️ Tech stack
 
-## 👋 About Me
+**Work**<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxtjs,mysql,postgres,mongodb,python,git&theme=dark" />
 
-Software Engineering student at **UNISATC** and a developer. My work so far has been in web systems and, above all, in what happens behind the interface: **legacy data migration**, database modeling, query optimization and process automation.
+**Also comfortable with**<br>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,nextjs,ts,linux,bash&theme=dark" />
 
-That's also what shaped the direction I chose for my career. Working close to the database and the server, and dealing with what breaks in production, is what made me decide on **Cloud and DevOps**.
+**Learning**<br>
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
 
-I'm early in that path and learning it properly, starting with the fundamentals instead of the tooling.
+### 📊 GitHub stats
 
-## 🎯 Current Focus
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WagnerK4uan&hide_border=true&background=1A1033&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&stroke=4C1D95" />
+</p>
 
-<table>
-  <tr>
-    <td>☁️ AWS fundamentals</td>
-    <td>🌐 Computer networks</td>
-    <td>🐧 Linux</td>
-  </tr>
-  <tr>
-    <td>🐳 Containers</td>
-    <td>⚙️ Automation</td>
-    <td>🗄️ Databases</td>
-  </tr>
-</table>
+<p align="center">Always up for a chat about web development, automation, AI tooling or databases.</p>
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-#### ☁️ Cloud & Infrastructure (learning)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square&logo=cisco&logoColor=white)
-
-#### 🛠️ Languages & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
-
-#### 💻 Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api?username=WagnerK4uan&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=808080" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=WagnerK4uan&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=3B82F6&text_color=808080" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=WagnerK4uan&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=3B82F6" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-<sub>Happy to talk about cloud, automation, Linux and the legacy databases nobody wants to touch.</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:4c1d95&height=100&section=footer" />
